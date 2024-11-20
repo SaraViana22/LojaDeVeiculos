@@ -13,6 +13,5 @@ public class Main {
         aluno.exibirDadosAluno();
         
         scanner.close();
-        // neste código informamos os dados dos alunos
     }
 }
